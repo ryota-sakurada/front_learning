@@ -40,5 +40,7 @@
   (async () => {
     const user1 = await myFetch("user1");
     console.log(`--${user1.name}'s timeline--`);
+
+    // 
   })();
   
